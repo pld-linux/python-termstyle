@@ -8,7 +8,7 @@ Summary:	Console colouring for Python
 Summary(pl.UTF-8):	Kolory na konsoli dla Pythona
 Name:		python-termstyle
 Version:	0.1.11
-Release:	6
+Release:	7
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/termstyle/
